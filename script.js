@@ -5,6 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
     setTimeout(() => {
         msg.classList.remove('text');
         setTimeout(() => msg.remove(), 600); 
-    }, 8000);
+    }, 15000);
 });
 
